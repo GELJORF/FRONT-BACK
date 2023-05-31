@@ -3,7 +3,14 @@ Programmation FRONT/BACK
 
 LE FRONT-END 
 Le front-end désigne ce que voient les utilisateurs, ce avec quoi ils interagissent. 
+
 Sur un site web, le frontend est la partie du site web avec laquelle les utilisateurs interagissent.
+
+Le front-end c’est la partie du code qui est reçue par le client. Je rappelle que le client c’est notre navigateur Web. 
+
+Il s’agit finalement des éléments du site web que l’on aperçoit à l’écran et avec lesquels on pourra interagir.
+
+Ces éléments sont composés de 3 langages: HTML, CSS et Javascript
 
 LE BACK-END
 Le back-end est ce qui permet le fonctionnement.
