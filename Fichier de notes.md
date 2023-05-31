@@ -1,6 +1,8 @@
 # FRONT-BACK
 Programmation FRONT/BACK
 
+
+
 LE FRONT-END 
 Le front-end désigne ce que voient les utilisateurs, ce avec quoi ils interagissent. 
 
@@ -10,7 +12,25 @@ Le front-end c’est la partie du code qui est reçue par le client. Je rappelle
 
 Il s’agit finalement des éléments du site web que l’on aperçoit à l’écran et avec lesquels on pourra interagir.
 
-Ces éléments sont composés de 3 langages: HTML, CSS et Javascript
+Ces éléments sont composés de langages comme le HTML, CSS et Javascript :
+
+HTML (Hyper Text Markup Langage)
+HTML – Hyper Text Markup Langage – est un langage composé de tags, balises en Français. Il va nous permettre de représenter la structure, le squelette de nos pages Web.
+
+Par exemple : un titre, un paragraphe, une image ou une liste
+
+CSS (Cascading Styles Sheets)
+Le langage CSS – Cascading Styles Sheets – est un langage qui va mettre en forme nos pages Web et les décorer.
+
+Il va désigner nos éléments HTML à l’aide de sélecteurs et va leur appliquer un style CSS. C’est ce langage CSS qui est responsable des couleurs, des tailles, de la mise en page, etc.
+
+
+Javascript
+Un site Web peut être composé uniquement d’HTML et de CSS, mais si on veut lui insuffler un peu de vie on aura besoin de Javascript, qui lui, est un vrai langage de programmation, avec des boucles, des conditions…
+
+Il y a aussi Bootstrap qui est un framework HTML, CSS et Javascript, c’est-à-dire une structure qui contient de nombreux composants prêts à l’emploi: boutons, listes déroulantes, menus, etc.
+
+Mais ce qui fait de Bootstrap une véritable star, c’est sa popularité pour développer « responsive ».
 
 LE BACK-END
 Le back-end est ce qui permet le fonctionnement.
