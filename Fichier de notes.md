@@ -23,6 +23,9 @@ Les développeurs backend utilisent des systèmes d’exploitation, des framewor
 Quelques langages de programmation backend : 
 
 Node.js : pour les applications de haut de gamme et le streaming vidéo.
+
 Python : facile d’utilisation et célèbre pour sa compatibilité avec les technologies avancées telles que le machine learning.
+
 PHP : une syntaxe expressive, ce qui donne une liberté de création aux développeurs.
+
 C++ : parmi les langages les plus utilisés aujourd’hui, il est un langage compilé, c’est-à-dire compilé de plusieurs fichiers sources grâce à un compilateur afin d’obtenir un programme exécutable.
